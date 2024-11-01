@@ -1,0 +1,19 @@
+/* src/components/Display.css */
+.display {
+    background-color: #222;
+    padding: 20px;
+    font-size: 24px;
+    color: #fff;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    text-align: right;
+}
+.expression {
+    font-size: 16px;
+    color: #ccc;
+}
+.result {
+    font-size: 24px;
+    color: #fff;
+    margin-top: 5px;
+}
